@@ -1,0 +1,53 @@
+List of databases
+-[ RECORD 1 ]-----+----------------------------
+Name              | api-app
+Owner             | sethppierce
+Encoding          | UTF8
+Collate           | C
+Ctype             | C
+Access privileges | 
+-[ RECORD 2 ]-----+----------------------------
+Name              | api-app-auth
+Owner             | sethppierce
+Encoding          | UTF8
+Collate           | C
+Ctype             | C
+Access privileges | 
+-[ RECORD 3 ]-----+----------------------------
+Name              | bearer-auth
+Owner             | sethppierce
+Encoding          | UTF8
+Collate           | C
+Ctype             | C
+Access privileges | 
+-[ RECORD 4 ]-----+----------------------------
+Name              | postgres
+Owner             | sethppierce
+Encoding          | UTF8
+Collate           | C
+Ctype             | C
+Access privileges | 
+-[ RECORD 5 ]-----+----------------------------
+Name              | sethppierce
+Owner             | sethppierce
+Encoding          | UTF8
+Collate           | C
+Ctype             | C
+Access privileges | 
+-[ RECORD 6 ]-----+----------------------------
+Name              | template0
+Owner             | sethppierce
+Encoding          | UTF8
+Collate           | C
+Ctype             | C
+Access privileges | =c/sethppierce             +
+                  | sethppierce=CTc/sethppierce
+-[ RECORD 7 ]-----+----------------------------
+Name              | template1
+Owner             | sethppierce
+Encoding          | UTF8
+Collate           | C
+Ctype             | C
+Access privileges | =c/sethppierce             +
+                  | sethppierce=CTc/sethppierce
+
